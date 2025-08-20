@@ -26,3 +26,25 @@ It includes data preprocessing, feature engineering, and a comparison between Lo
 
 
 ### 5. Deployment 
+
+
+
+## Contributors  
+
+Thanks to the whole team for contributing to this project 💻✨  
+
+<a href="https://github.com/HusseinElhaddad">
+  <img src="https://avatars.githubusercontent.com/HusseinElhaddad" width="60" height="60" style="border-radius:50%" />
+</a>
+<a href="https://github.com/MoBahgat010">
+  <img src="https://avatars.githubusercontent.com/MoBahgat010" width="60" height="60" style="border-radius:50%" />
+</a>
+<a href="https://github.com/MohamedAbdelaiem">
+  <img src="https://avatars.githubusercontent.com/MohamedAbdelaiem" width="60" height="60" style="border-radius:50%" />
+</a>
+<a href="https://github.com/Abdelrehim2001">
+  <img src="https://avatars.githubusercontent.com/Abdelrehim2001" width="60" height="60" style="border-radius:50%" />
+</a>
+<a href="https://github.com/Youssef-ahmed12">
+  <img src="https://avatars.githubusercontent.com/Youssef-ahmed12" width="60" height="60" style="border-radius:50%" />
+</a>
