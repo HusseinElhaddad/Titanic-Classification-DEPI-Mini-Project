@@ -28,6 +28,12 @@ It includes data preprocessing, feature engineering, and a comparison between Lo
 ### 5. Deployment 
 
 
+## Try Our Model
+You can try the deployed model directly on Hugging Face:  
+👉 [Titanic Classification – DEPI Mini Project](https://huggingface.co/HussienElhaddad/Titanic-Classification-DEPI-Mini-Project)
+
+
+
 
 ## Contributors  
 
