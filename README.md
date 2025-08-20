@@ -3,6 +3,8 @@
 This project explores the Titanic dataset to predict passenger survival.  
 It includes data preprocessing, feature engineering, and a comparison between Logistic Regression and Decision Tree models to evaluate performance.  
 
+<img width="1920" height="577" alt="image" src="https://github.com/user-attachments/assets/9e70159f-4f9c-4920-9d03-3df36b9ef205" />
+
 ## Project Workflow  
 
 ### 1. Preprocessing  
