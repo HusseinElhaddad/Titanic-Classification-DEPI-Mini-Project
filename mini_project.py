@@ -445,3 +445,6 @@ for bars in [bars1, bars2]:
 
 plt.show()
 
+# In[43]:
+import joblib
+joblib.dump(log_reg, "titanic_model.pkl")
