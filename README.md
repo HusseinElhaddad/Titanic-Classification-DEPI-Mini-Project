@@ -5,6 +5,17 @@ It includes data preprocessing, feature engineering, and a comparison between Lo
 
 <img width="1920" height="577" alt="image" src="https://github.com/user-attachments/assets/9e70159f-4f9c-4920-9d03-3df36b9ef205" />
 
+## Additional Component: GCD Permutation Problem
+
+This repository also includes a solution to the GCD Permutation competitive programming problem. See `GCD_PERMUTATION_README.md` for details.
+
+**Files related to GCD Permutation:**
+- `gcd_permutation.cpp` - Main solution
+- `verify_solution.cpp` - Solution verification tool
+- `test_expected.cpp` - Test validation
+- `test_input.txt` - Sample test cases
+- `GCD_PERMUTATION_README.md` - Detailed documentation
+
 ## Project Workflow  
 
 ### 1. Preprocessing  
